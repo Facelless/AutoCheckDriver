@@ -1,0 +1,26 @@
+{
+  "distros": [
+    { "name": "Arch Linux", "keywords": ["arch"], "manager": "pacman -S" },
+    { "name": "Manjaro", "keywords": ["manjaro"], "manager": "pacman -S" },
+    { "name": "Debian", "keywords": ["debian"], "manager": "apt install" },
+    { "name": "Ubuntu", "keywords": ["ubuntu"], "manager": "apt install" },
+    { "name": "Kali Linux", "keywords": ["kali"], "manager": "apt install" },
+    { "name": "Linux Mint", "keywords": ["linuxmint"], "manager": "apt install" },
+    { "name": "Pop!_OS", "keywords": ["pop"], "manager": "apt install" },
+    { "name": "Elementary OS", "keywords": ["elementary"], "manager": "apt install" },
+    { "name": "Fedora", "keywords": ["fedora"], "manager": "dnf install" },
+    { "name": "RHEL", "keywords": ["rhel"], "manager": "dnf install" },
+    { "name": "CentOS", "keywords": ["centos"], "manager": "dnf install" },
+    { "name": "AlmaLinux", "keywords": ["almalinux"], "manager": "dnf install" },
+    { "name": "Rocky Linux", "keywords": ["rocky"], "manager": "dnf install" },
+    { "name": "openSUSE", "keywords": ["opensuse"], "manager": "zypper install" },
+    { "name": "Void Linux", "keywords": ["void"], "manager": "xbps-install -S" },
+    { "name": "Solus", "keywords": ["solus"], "manager": "eopkg install" },
+    { "name": "Slackware", "keywords": ["slackware"], "manager": "slackpkg install" },
+    { "name": "Gentoo", "keywords": ["gentoo"], "manager": "emerge" },
+    { "name": "Alpine Linux", "keywords": ["alpine"], "manager": "apk add" },
+    { "name": "NixOS", "keywords": ["nixos"], "manager": "nix-env -iA" },
+    { "name": "Clear Linux", "keywords": ["clear-linux"], "manager": "swupd bundle-add" }
+  ]
+}
+
