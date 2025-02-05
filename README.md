@@ -4,11 +4,6 @@ AutoDriveCheck é um script para Linux que verifica drivers essenciais do sistem
 
 ## 📥 Instalação
 
-### Via Pacman (Arch Linux e derivados)
-```bash
-sudo pacman -Syu AutoDriveCheck
-```
-
 ### Instalação Manual
 ```bash
 git clone https://github.com/Facelless/AutoDriveCheck.git
