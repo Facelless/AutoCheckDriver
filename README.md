@@ -29,7 +29,3 @@ O **AutoDriveCheck** requer os seguintes pacotes:
 
 ## 📌 Contribuição
 Sinta-se à vontade para contribuir com melhorias e correções! Basta clonar o repositório e enviar um pull request.
-
-## 📜 Licença
-Este projeto está licenciado sob a **MIT License**. Veja o arquivo `LICENSE` para mais detalhes.
-
