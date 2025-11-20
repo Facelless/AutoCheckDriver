@@ -1,8 +1,8 @@
-# AutoCheckDriver 🚀
+# AutoCheckDriver
 
 AutoCheckDriver é um script para Linux que verifica drivers essenciais do sistema e sugere a instalação automática de pacotes necessários.
 
-## 📥 Instalação
+## Instalação
 
 ### Instalação Manual
 ```bash
@@ -11,7 +11,7 @@ cd AutoCheckDriver
 makepkg -si
 ```
 
-## 🚀 Como Usar
+## Como Usar
 
 Após a instalação, basta executar o comando:
 ```bash
@@ -19,7 +19,8 @@ driver-checker
 ```
 O script irá analisar seu sistema e sugerir pacotes essenciais para os drivers de hardware.
 
-## 🛠️ Dependências
+## Dependências
+
 O **AutoDriveCheck** requer os seguintes pacotes:
 - `nodejs`
 - `npm`
@@ -27,5 +28,6 @@ O **AutoDriveCheck** requer os seguintes pacotes:
 - `usbutils`
 - `cli-table3` (instalado automaticamente)
 
-## 📌 Contribuição
+## Contribuição
+
 Sinta-se à vontade para contribuir com melhorias e correções! Basta clonar o repositório e enviar um pull request.
